@@ -129,5 +129,5 @@ class TikTok:
 
 if __name__ == '__main__':
     os.system("cls && title Scripting's TikTok SharesBot")
-    main = TikTok()
-    main.start()
+    main = TikTok(https://www.tiktok.com/@lilcloutcloud_/video/7091746295903178027?is_from_webapp=1&sender_device=pc&web_id=7091749248673449518)
+    main.start(100000)
